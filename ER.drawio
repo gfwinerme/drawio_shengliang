@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-28T03:02:15.948Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="1uerjp-VM5rKHlN6ytSQ" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-02-28T03:56:46.159Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="L3jetV_8XhKhWxI3EWxe" version="12.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2379" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,9 +405,6 @@
         <mxCell id="-rTLP-rK4vmZMO-WSR2V-10" value="名称" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="-68.31605633802816" width="80" height="68.73239436619718" as="geometry" />
         </mxCell>
-        <mxCell id="-rTLP-rK4vmZMO-WSR2V-11" value="密码" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-160" y="275.35366197183106" width="80" height="68.73239436619718" as="geometry" />
-        </mxCell>
         <mxCell id="-rTLP-rK4vmZMO-WSR2V-12" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="137.8857746478873" width="80" height="68.73239436619718" as="geometry" />
         </mxCell>
@@ -418,7 +415,7 @@
           <mxGeometry x="-160" y="69.15183098591552" width="80" height="68.73239436619718" as="geometry" />
         </mxCell>
         <mxCell id="-rTLP-rK4vmZMO-WSR2V-15" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-160" y="344.08760563380287" width="80" height="68.73239436619718" as="geometry" />
+          <mxGeometry x="-160" y="275.34760563380286" width="80" height="68.73239436619718" as="geometry" />
         </mxCell>
         <mxCell id="-rTLP-rK4vmZMO-WSR2V-16" value="account_id" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="-140" width="80" height="68.73239436619718" as="geometry" />
@@ -456,12 +453,6 @@
         <mxCell id="-rTLP-rK4vmZMO-WSR2V-23" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rTLP-rK4vmZMO-WSR2V-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="206.61971830985914" as="sourcePoint" />
-            <mxPoint x="80" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-rTLP-rK4vmZMO-WSR2V-24" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rTLP-rK4vmZMO-WSR2V-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40" y="335.49295774647885" as="sourcePoint" />
             <mxPoint x="80" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
